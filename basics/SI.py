@@ -1,5 +1,0 @@
-p=float(input("Enter the Principal amount: "))
-r=float(input("Enter the Interest rate: "))
-t=float(input("Enter the duration: "))
-SI=p*r*t/(100)
-print(SI)
